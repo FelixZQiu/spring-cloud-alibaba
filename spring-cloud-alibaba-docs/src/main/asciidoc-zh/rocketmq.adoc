@@ -276,3 +276,5 @@ retryNextServer::
 消息发送失败的情况下是否重试其它的 broker。
 +
 默认值: `false`.
+
+===
